@@ -131,28 +131,28 @@ class Board:
             print(f"{BLUE_TEAM_SIGN} team wins!")
         elif self.row1_col1 == self.row1_col2 == self.row1_col3 == RED_TEAM_SIGN:
             WIN = RED_TEAM_SIGN
-            print(f"{BLUE_TEAM_SIGN} team wins!")
+            print(f"{RED_TEAM_SIGN} team wins!")
         elif self.row2_col1 == self.row2_col2 == self.row2_col3 == RED_TEAM_SIGN:
             WIN = RED_TEAM_SIGN
-            print(f"{BLUE_TEAM_SIGN} team wins!")
+            print(f"{RED_TEAM_SIGN} team wins!")
         elif self.row3_col1 == self.row3_col2 == self.row3_col3 == RED_TEAM_SIGN:
             WIN = RED_TEAM_SIGN
-            print(f"{BLUE_TEAM_SIGN} team wins!")
+            print(f"{RED_TEAM_SIGN} team wins!")
         elif self.row1_col1 == self.row2_col1 == self.row3_col1 == RED_TEAM_SIGN:
             WIN = RED_TEAM_SIGN
-            print(f"{BLUE_TEAM_SIGN} team wins!")
+            print(f"{RED_TEAM_SIGN} team wins!")
         elif self.row1_col2 == self.row2_col2 == self.row3_col2 == RED_TEAM_SIGN:
             WIN = RED_TEAM_SIGN
-            print(f"{BLUE_TEAM_SIGN} team wins!")
+            print(f"{RED_TEAM_SIGN} team wins!")
         elif self.row1_col3 == self.row2_col3 == self.row3_col3 == RED_TEAM_SIGN:
             WIN = RED_TEAM_SIGN
-            print(f"{BLUE_TEAM_SIGN} team wins!")
+            print(f"{RED_TEAM_SIGN} team wins!")
         elif self.row1_col1 == self.row2_col2 == self.row3_col3 == RED_TEAM_SIGN:
             WIN = RED_TEAM_SIGN
-            print(f"{BLUE_TEAM_SIGN} team wins!")
+            print(f"{RED_TEAM_SIGN} team wins!")
         elif self.row1_col3 == self.row2_col2 == self.row3_col1 == RED_TEAM_SIGN:
             WIN = RED_TEAM_SIGN
-            print(f"{BLUE_TEAM_SIGN} team wins!")
+            print(f"{RED_TEAM_SIGN} team wins!")
         else:
             WIN = None
             print("No one wins")
