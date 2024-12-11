@@ -7,7 +7,7 @@ This game is only a command line game. So it will run as a script and displayed 
 This project was developed by:
 
 **Md Mahmud Hasan**  
-- 💻 GitHub: [mahamudh472](https://github.com/username)  
+- 💻 GitHub: [mahamudh472](https://github.com/mahamudh472)  
 - 📧 Email: mahadymahamudh472@gmail.com  
 
 Feel free to reach out for any questions, suggestions, or collaboration opportunities!

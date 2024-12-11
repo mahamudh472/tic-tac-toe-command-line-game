@@ -1,3 +1,16 @@
+
+"""
+###########################################
+# Project Name: Tic Tac Toe command line game
+# Author: Md Mahmud Hasan
+# Email: mahadymahamudh472@gmail.com
+# GitHub: https://github.com/mahamudh472
+# Description: This game is only a command line game. So it will run as a script and displayed in the terminal.
+# Created On: 1 Nov 2023
+###########################################
+"""
+
+
 import os 
 
 TURN = None     #Blue/Red
